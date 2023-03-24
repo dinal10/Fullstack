@@ -78,14 +78,14 @@ if (numberGenap > numberGanjil) {
   console.log("rata rata memiliki nilai sama antara array genap dan array ganjil");
 }
 
-console.log(number);
-console.log(numberGanjil);
-console.log(numberGenap);
-console.log(min_ganjil);
-console.log(max_ganjil);
-console.log(sum_ganjil);
-console.log(min_genap);
-console.log(max_genap);
-console.log(sum_genap);
-console.log(hasil);
-console.log(hasilGenap);
+console.log("nilai array", number);
+console.log("nilai Array Ganjil", numberGanjil);
+console.log("nilai Array Genap", numberGenap);
+console.log("nilai Array min Ganjil", min_ganjil);
+console.log("nilai Array max Ganjil", max_ganjil);
+console.log("nilai Array sum Ganjil", sum_ganjil);
+console.log("Nilai Array min Genap", min_genap);
+console.log("Nilai Array max Genap", max_genap);
+console.log("Nilai Array sum Genap", sum_genap);
+console.log("hasil Array", hasil);
+console.log("Nilai hasil Array Genap", hasilGenap);
